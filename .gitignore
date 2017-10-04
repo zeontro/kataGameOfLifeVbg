@@ -11,10 +11,11 @@ dependency-reduced-pom.xml
 .project
 .classpath
 *.launch
+bin
 .settings/
 *.ipr
 *.iml
-
+.metadata
 # misc
 *.log
 
